@@ -1,0 +1,28 @@
+{
+  "name": "comp308-w2017-lesson9",
+  "description": "## Welcome to Mean CRUD",
+  "main": "server.js",
+  "authors": [
+    "Ali Saim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "EJS"
+  ],
+  "homepage": "https://github.com/AliSaim/comp308-lesson9-winter2017",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
